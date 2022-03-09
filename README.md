@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeanseyGadine
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development (JS, HTML, CSS)
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on I don't know yet..
 - 📫 How to reach me: 
 - Git: https://github.com/JeanseyGadine/ 
